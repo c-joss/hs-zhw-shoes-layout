@@ -24,4 +24,36 @@
 
 /* Positioning Classes */
 
+.column {
+display: inline;
+float: left;
+width: 300px;
+margin: 9px;
+padding-top: 3px;
+padding-bottom: 3px;  
+}
 
+.sale {
+  width: 918px;
+}
+
+
+.featured {
+  width: 606px;
+}
+
+
+.archive {
+  width: 288px;
+}
+
+.deals {
+  width: 288px;  
+}
+
+.milk_text {
+  padding-top: 6px;
+  padding-left: 6px;
+
+
+}
